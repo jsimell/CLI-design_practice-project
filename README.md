@@ -1,5 +1,5 @@
 # Christmas present wish list application
-This repository contains the frontend implementation of a very simple CLI-based christmas present wish list application, and a report describing the design process in detail.
+This repository contains the frontend implementation of a very simple command-line-interface-based christmas present wish list application, and a report describing the design process in detail.
 
 The focus of this project was to justify the design choices that were made during the design process by using varying heuristics from related literature.
 
